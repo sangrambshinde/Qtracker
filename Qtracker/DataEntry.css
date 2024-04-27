@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.data-entry-section{
+
+
+     background-color: rgb(218, 82, 82);
+    /* top: 30%;
+    position: relative;
+    padding-top: 20%;
+    width: 650px;
+    height: 400px;
+    padding-left: 300px; */
+}
+.contianer-form{
+
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.bgimage{
+    width: 100%;
+    height: 100%;
+}

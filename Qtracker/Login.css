@@ -1,0 +1,59 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+
+}
+.main-container{
+
+	height: 100vh;
+	width: 100%;
+	position: relative;
+	top: 0px;
+	background-image: url("https://i.vimeocdn.com/video/1656095078-730ce43c3f3333c376d2179b68cb494a2d51c246467f89f654270d1a7a01b1c0-d_640x360.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	position: fixed;
+
+}
+
+.login-form{
+
+	height: 500px;
+	width: 500px;
+	padding: 30px;
+	background:transparent;
+	backdrop-filter: blur(15px);
+	position: absolute;
+	top: 5%;
+	right: 350px;
+	border-radius: 50px;
+	box-shadow: -6px -6px 20px whitesmoke;
+}
+input{
+	width: 90%;
+	margin-top: 20px;
+	height: 60px;
+	border: none;
+	outline: none;
+	background-color: transparent;
+	border-bottom: 3px solid white;
+	color: white;
+	font-size: 20px;
+	padding: 20px;
+}
+lgn{
+
+	font-family: Arial Black;
+	color: royalblue;
+	height: 70px;
+	border-radius: 15px;
+	font-size: 25px;
+	line-height: 30px;
+	font-family: Arial Black;
+}
+
+.heading{
+	color: orange;
+}
